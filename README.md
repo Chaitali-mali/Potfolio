@@ -1,71 +1,108 @@
-# Potfolio
-👩‍💻 About Me
+Tianna Parris - Data Analyst Portfolio
+About
+Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
-Hi! I’m Chaitali Mali, a passionate and detail-oriented Computer Science student (B.E.) with a strong foundation in Data Analysis, Machine Learning, and Android App Development. I’m actively seeking entry-level opportunities to apply my skills and help organizations make smarter, data-driven decisions.
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-🎯 Career Objective
-To contribute to impactful data projects using tools like Excel, SQL, Power BI, and Python, while gaining hands-on experience in real-world problem-solving and analysis.
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-🛠️ Skills
-Languages & Tools: Python, JavaScript, HTML, CSS, MySQL
+My CV in pdf.
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-Analytics & BI: Excel, Power BI
-Development Tools: Git, GitHub, VS Code
-Soft Skills: Analytical Thinking, Technical Writing, Attention to Detail
+Table of Contents
+About
 
-Detail
+Portfolio Projects
 
-💼 Experience
-Machine Learning Intern @ CodeSoft (Jun–Jul 2025)
+Python
+Analyzing the Factors Contributing to the Success of a Movie
+Tech Store Sales Analysis
+SQL
+Covid 19 Data Exploration
+Nashville Housing Data Cleaning
+R
+Legendary Pokémon Analysis (Study Project)
+Excel / Google Sheets
+Tableau---> go to Tableau..
+Power BI
+Education
 
-Improved model accuracy by 35% on a customer churn prediction task using scikit-learn.
-Led a data classification project, boosting accuracy by 30%.
-Applied real-world ML concepts to solve practical problems using Python.
+Certificates
 
-📁 Portfolio Projects
+Contact
 
-🔹 ❤️ Heart Disease Clinical Data Analysis
-Issued: July 2025
-🔗 View Certificate
-Built a predictive model to analyze heart disease risk using clinical data, achieving high accuracy with logistic regression and random forest.
+Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-🔹 📊 Email Spam Detection ML Project
-Issued: June 2025
-🔗 View Certificate
-Developed an NLP-based model to classify spam emails using Python, TF-IDF, and machine learning algorithms like Naive Bayes.
+Analyzing the Factors Contributing to the Success of a Movie
+Code: Analyzing the Factors Contributing to the Success of a Movie.ipynb
 
-🔹 📱 Android App Development – Item Sale Information
-Issued: March 2021
-🔗 View Certificate
-Created a mobile app to track item sales with CRUD operations and real-time updates using Firebase/SQLite.
+Goal: To determine what factors contribute the most to a movie's success.
 
-🔹 CodeSoft Internship Projects
-A collection of machine learning and data analytics projects completed during my internship.
+Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
-🎓 Education
-Bachelor of Engineering (B.E.) – Computer Science
-📍 Gangamai College of Engineering, Nagaon (NMU University)
-📅 July 2021 – June 2025
-📈 CGPA: 8.13 / 10
+Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-Higher Secondary Certificate (H.S.C) – Science
-📍 N.G. Bagul High School, Songir (State Board)
-📅 July 2020 – June 2021
-📊 Percentage: 69.17%
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-Secondary School Certificate (S.S.C)
-📍 S.T.T.K. Mahajan High School, Dhule (State Board)
-📅 July 2018 – June 2019
-📊 Percentage: 50.20%
+Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
+Tech Store Sales Analysis
+Goal: To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-📫 Connect With Me
+Code: Tech Store Sales Analysis.ipynb
 
-📧 Email
-💼 LinkedIn
-💡 LeetCode | HackerRank
+Description: The dataset contains a list of sales records. The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
+Skills: data cleaning, data analysis, hypothesis testing, data visualization.
 
+Technology: Python, Pandas, Matplotlib.
 
+Results: Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+
+Nashville Housing Data Cleaning
+Code: Data Cleaning Project Queries: Nashville Housing.sql
+
+Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+Technology: SQL Server
+
+Covid 19 Data Exploration
+Code: COVID Portfolio Project.sql
+
+Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Technology: SQL Server
+
+Legendary Pokémon Analysis
+Goal: To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+
+Code: Legendary Pokémon Analysis (Study Project)
+
+Description: The dataset contains a list of Pokémon. The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+
+Skills: data cleaning, data analysis, data visualization.
+
+Technology: Tidyverse
+
+Education
+University of Colorado, Boulder: Master of Science - MS, Data Science, Dec 2022 - Dec 2024
+
+The University of the West Indies, Mona: Bachelor's degree, Biochemistry and Molecular Biology, 2019 - 2022
+
+Pre University School: Associate's degree, Science and Mathematics, 2017 - 2019
+
+Certificates
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+Google Data Analytics Professional Certificate (Sep 2022) (Coursera - Google)
+Tableau (Oct 2022) (Coursera - University of California, Davis)
+Python for Data Science (Feb 2023) (Coursera - University of Colorado Boulder)
+Contacts
+LinkedIn: @tiannaparris
+Email: parristianna@yahoo.com
