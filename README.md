@@ -94,6 +94,20 @@ A collection of Machine Learning and Data Analytics projects completed during my
 
 ---
 
+---
+
+### 🔹 [HR Data Analyst](https://github.com/Chaitali-mali/HR-Data-Analysis)  
+
+Analyzed HR data to explore employee attrition, satisfaction, promotions, and department-wise trends.  
+Built an interactive dashboard using **Power BI** to visualize key insights.
+
+🔹 **Tools:** Power BI, Power Query, CSV  
+📁 **Files:** `.pbix`, `.csv`  
+📅 **Issued:** July 2025  
+
+---
+
+
 ## 🎓 Education
 
 **Bachelor of Engineering (B.E.) – Computer Science**  
