@@ -38,17 +38,6 @@ From **data cleaning** to **predictive modeling** and **dashboard creation**, I 
 
 ---
 
-## 📫 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chaitalimali/)
-- 💻 [GitHub](https://github.com/Chaitali-mali)
-- 📧 Email: chaitalimali902@gmail.com
-
-
-
-
----
-
 ## 🎯 Career Objective
 
 To contribute to impactful data projects using tools like **Excel, SQL, Power BI, and Python**, while gaining hands-on experience in real-world problem-solving and analysis.
@@ -119,6 +108,36 @@ A collection of Machine Learning and Data Analytics projects completed during my
 📍 *S.T.T.K. Mahajan High School, Dhule (State Board)*  
 📅 *July 2018 – June 2019*  
 📊 *Percentage: 50.20%*
+
+---
+
+## 📜 Certifications
+
+- 📄 [Python Certificate](https://drive.google.com/file/d/1EMK_UiR8UUHxZI4jI_ZQo0ze6f6BYS3S/view?usp=sharing)  
+- 📄 [SQL Certificate](https://drive.google.com/file/d/1F5_Nj7JHVGCNs0CDbEVHi9V2mroGzof2/view?usp=sharing)  
+- 📄 [C++ Certificate](https://drive.google.com/file/d/118-hEzghgMpQvsvSRx8GD_2JedwKvWL5/view?usp=sharing)  
+- 📄 [JavaScript](https://drive.google.com/file/d/16jfIm2sgK2j9X12LpoJaMhuynhYOgVHg/view?usp=sharing)  
+- 📄 [Data Analytics](https://drive.google.com/file/d/1Wu2eSRxtaOeXInbMuthcjwN-JYk9rBYT/view?usp=sharing)  
+- 📄 [OOPs](https://drive.google.com/file/d/1i6uNnlKrSBsLcpjaJke72xrQmTDZhbXg/view?usp=sharing)  
+- 📄 [Java Logic Journey](https://drive.google.com/file/d/1XmC4sKZBsFDoQId9FXVMIv-CvRNsnrMo/view?usp=sharing)  
+- 📄 [Power BI](https://drive.google.com/file/d/1zIfOYyjLbBI8HpcPsbgaDYLgeB9hqY59/view?usp=sharing)  
+- 📄 [Web Design](https://drive.google.com/file/d/10pYoRLB-ujzO8Oui7JtkkqYvCE60dRW_/view?usp=sharing)  
+- 📄 [Microsoft Excel](https://drive.google.com/file/d/1nK8KEhscHjz9s8B4D9H4RoV1f5srzeXf/view?usp=sharing)  
+- 📄 [AI Workshop](https://drive.google.com/file/d/1tDEzJ_3h6hR3g4HDk0jjZ2CfAmLIKzVb/view?usp=sharing)
+
+---
+## 🌐 Coding Profiles
+
+- 🧠 [LeetCode](https://leetcode.com/u/mGlmTqRsNn/)  
+- 🧠 [HackerRank](https://www.hackerrank.com/profile/chaitalimali902)
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [chaitalimali902@gmail.com](mailto:chaitalimali902@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chaitalimali/)  
+- 💻 [GitHub](https://github.com/Chaitali-mali)
 
 ---
 
