@@ -56,8 +56,10 @@ To contribute to impactful data projects using tools like **Excel, SQL, Power BI
 
 ## 💼 Experience
 
-**Machine Learning Intern @ CodeSoft**  
+**[Machine Learning Intern @ CodeSoft](https://github.com/Chaitali-mali/CodeSoft-Internship-Projects)**  
 📅 *June 2025 – July 2025*  
+- 📄 [Internship Offer Letter](https://drive.google.com/file/d/1mEhHdyscaE6w-H0Bk75_VXtPzwj5gbBB/view?usp=sharing)
+- 📄 [Internship Ceritification](https://drive.google.com/file/d/1XMbeLomPp8GZUtU_rF2Hng6xqO-bgYfK/view?usp=sharing)
 - Improved model accuracy by **35%** on a customer churn prediction task using `scikit-learn`.  
 - Led a data classification project, boosting accuracy by **30%**.  
 - Applied real-world ML concepts to solve practical problems using Python.
