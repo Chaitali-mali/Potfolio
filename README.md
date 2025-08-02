@@ -81,14 +81,17 @@ Built a predictive model to analyze heart disease risk using clinical data, achi
 Developed an NLP-based model to classify spam emails using Python, TF-IDF, and ML algorithms like Naive Bayes.
 
 ---
+### 🔹 [📈 SuperStore Sales Forecast](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast)
 
-### 🔹 [📱 Android App – Item Sale Information](https://github.com/Chaitali-mali/Android-App)  
-📅 *Issued: March 2021*  
-🔗 [View Certificate](#)  
-Created a mobile app to track item sales with CRUD operations and real-time updates using Firebase/SQLite.
+📅 *Issued: August 2025*  
+
+A data-driven forecasting project that predicts future sales trends for a fictional retail store using Python and advanced time series modeling techniques. The project leverages real-world business variables such as Order Date, Region, Category, and Sales to build predictive models that support smarter decision-making.
+---
+### 🔹 [☕ Excel Project – Coffee Sales](https://github.com/Chaitali-mali/excel-project-coffee-sales)
+📅 *Issued: August 2025*  
+An interactive Excel dashboard that analyzes coffee sales across product types, regions, and customer segments using pivot tables, slicers, and charts to reveal actionable insights.
 
 ---
-
 ### 🔹 [CodeSoft Internship Projects](https://github.com/Chaitali-mali/CodeSoft-Internship-Projects)  
 A collection of Machine Learning and Data Analytics projects completed during my internship.
 
