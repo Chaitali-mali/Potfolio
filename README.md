@@ -69,13 +69,15 @@ To contribute to impactful data projects using tools like **Excel, SQL, Power BI
 ## 📁 Portfolio Projects
 
 ### 🔹 [❤️ Heart Disease Clinical Data Analysis](https://github.com/Chaitali-mali/Heart-Disease-Clinical)  
+
 📅 *Issued: July 2025*  
 🔗 [View Certificate](#) <!-- Replace with your actual certificate link -->  
 Built a predictive model to analyze heart disease risk using clinical data, achieving high accuracy with Logistic Regression and Random Forest.
 
 ---
 
-### 🔹 [📊 Email Spam Detection ML Project](https://github.com/Chaitali-mali/Email-Spam-Project)  
+### 🔹 [📊 Email Spam Detection ML Project](https://github.com/Chaitali-mali/Email-Spam-Project) 
+
 📅 *Issued: June 2025*  
 🔗 [View Certificate](#)  
 Developed an NLP-based model to classify spam emails using Python, TF-IDF, and ML algorithms like Naive Bayes.
@@ -84,15 +86,17 @@ Developed an NLP-based model to classify spam emails using Python, TF-IDF, and M
 ### 🔹 [📈 SuperStore Sales Forecast](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast)
 
 📅 *Issued: August 2025*  
+A time series forecasting project using Python to predict future sales trends based on order history, region, and product category. Techniques include ARIMA, Prophet, and seasonal decomposition.
 
-A data-driven forecasting project that predicts future sales trends for a fictional retail store using Python and advanced time series modeling techniques. The project leverages real-world business variables such as Order Date, Region, Category, and Sales to build predictive models that support smarter decision-making.
 ---
 ### 🔹 [☕ Excel Project – Coffee Sales](https://github.com/Chaitali-mali/excel-project-coffee-sales)
+
 📅 *Issued: August 2025*  
 An interactive Excel dashboard that analyzes coffee sales across product types, regions, and customer segments using pivot tables, slicers, and charts to reveal actionable insights.
 
 ---
 ### 🔹 [CodeSoft Internship Projects](https://github.com/Chaitali-mali/CodeSoft-Internship-Projects)  
+
 A collection of Machine Learning and Data Analytics projects completed during my internship.
 
 ---
